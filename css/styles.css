@@ -409,13 +409,12 @@ color: #404bbf;
 
 .footer-container {
     display: flex;
-    align-items: baseline
+    align-items: baseline;
 }
 
 .footer-content {
     margin-right: 120px;
 }
-
 
 .footer-logo {
     font-family: "Raleway", sans-serif;
@@ -479,11 +478,8 @@ color: #404bbf;
     background-color: #31d0aa;
 }
 
-
 /* ---------FOOTER--------- */
 /* ------------SOCIALS------------- */ 
-
-
 
 .socials-list-team {
     display: flex;
