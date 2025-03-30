@@ -409,12 +409,11 @@ color: #404bbf;
 
 .footer-container {
     display: flex;
-    gap: 120px;
     align-items: baseline
 }
 
 .footer-content {
-    margin-right: 120px
+    margin-right: 120px;
 }
 
 
@@ -443,9 +442,7 @@ color: #404bbf;
     max-width: 264px;
 }
 
-.footer-socials {
-    width: 208px;
-}
+.footer-socials {}
 
 .socials-title {
     display: inline-block;
